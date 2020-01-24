@@ -1,1 +1,1 @@
-"# ml-demosaic-experiment" 
+# [ml-demosaic jupyter notebook](ml-demosaic.ipynb)
